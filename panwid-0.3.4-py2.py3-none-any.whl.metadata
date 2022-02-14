@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: panwid
+Version: 0.3.4
+Summary: Useful widgets for urwid
+Home-page: https://github.com/tonycpsu/panwid
+Author: Tony Cebzanov
+Author-email: tonycpsu@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: urwid
+Requires-Dist: urwid-utils (>=0.1.2)
+Requires-Dist: six
+Requires-Dist: raccoon (>=3.0.0)
+Requires-Dist: orderedattrdict
+
+UNKNOWN
+
